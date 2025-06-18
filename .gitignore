@@ -1,0 +1,14 @@
+# Ignore frontend dependencies
+medconnect-frontend/node_modules/
+
+# Ignore backend dependencies
+medconnect-backend/node_modules/
+
+# Ignore environment variables
+medconnect-backend/.env
+
+# Ignore uploaded files
+medconnect-backend/uploads/
+
+# Ignore frontend build folder
+medconnect-frontend/dist/
