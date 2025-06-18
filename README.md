@@ -4,9 +4,7 @@ MedConnect is a full-stack web application for booking doctor appointments, view
 
 ## 🌐 Live Demo
 
-[🔗 Deployed URL (optional)](https://your-live-url.com)
 
----
 
 ##  Features
 
