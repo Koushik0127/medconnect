@@ -21,7 +21,4 @@ MedConnect is a full-stack web application for booking doctor appointments, view
 |--------------------|------------------------|----------|
 | React, Tailwind CSS| Node.js, Express.js    | MongoDB  |
 
----
-
-##  Folder Structure
 
